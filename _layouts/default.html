@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang='en'>
+
+	{% include head.html %}
+
+	<body>
+	
+		{% include header.html %}
+	
+		<div class="wrapper">	
+			<div class="content-wrapper">
+				
+				{% include content-left.html %}
+				
+				<div class="content-right">
+					<div class="content-right-wrapper">
+						<article>
+							{{ content }}
+						</article>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+		
+		{% include footer.html %}
+		
+	</body>
+
+
+
+</html>
