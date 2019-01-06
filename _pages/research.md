@@ -8,6 +8,11 @@ permalink: /research/
 
 ### Work in progress
 
-Information Technology, Repeat Prescriptions and Medication Overuse (with Petri Bockerman, Mika Kortelainen, Liisa T. Laine, and Tanja Saxell)
+Information Technology, Repeat Prescriptions and Medication Overuse (with [Petri Böckerman], [Mika Kortelainen], [Liisa T. Laine], and [Tanja Saxell])
 
-Bad Medicine: Electronic Prescribing and Prevention of Harmful Drug-Drug Interactions (with Petri Bockerman, Mika Kortelainen, Liisa T. Laine, and Tanja Saxell)
+Bad Medicine: Electronic Prescribing and Prevention of Harmful Drug-Drug Interactions (with [Petri Böckerman], [Mika Kortelainen], [Liisa T. Laine], and [Tanja Saxell])
+
+[Petri Böckerman]: http://www.petribockerman.fi/
+[Mika Kortelainen]: https://sites.google.com/view/mikakorte/home
+[Liisa T. Laine]: https://sites.google.com/site/laineliisat/
+[Tanja Saxell]: https://sites.google.com/site/tsaxell/

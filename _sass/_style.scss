@@ -26,10 +26,10 @@ body {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	width: 35em;
+	width: 40em;
 	padding: 1.3em 0;
 	background: #604020;
-
+	text-transform: uppercase;
 }
 
 .nav-name {
@@ -74,7 +74,7 @@ body {
 .content-wrapper {
 	display: flex;
 	justify-content: space-between;
-	width: 35em;
+	width: 40em;
 }
 
 .content-left {
@@ -106,7 +106,7 @@ body {
 	margin-bottom: 0.5em;
 	text-decoration: none;
 	color: #604020;
-	font-size: 0.9em;
+	font-size: 0.8em;
 }
 
 .fa-pic {
@@ -134,7 +134,14 @@ a.contact-link:hover {
 	margin-right: 0.5em;
 }
 
+a {
+	text-decoration: none;
+	color: #604020;
+}
 
+a:hover {
+	color: #0d0d0d;
+}
 
 h1, h2, h3 {
 	color: #604020;
@@ -157,7 +164,7 @@ p {
 .footer {	
 	display: flex;
 	justify-content: center;
-	width: 35em;
+	width: 40em;
 	border-top: solid;
 	border-width: 1px;
 }
@@ -170,9 +177,70 @@ p.footer-text {
 
 
 
+@media only screen and (max-width: 672px) {
+  
+  .navigation {
+	  padding: 0 3% 0 3%;
+  }
+  .nav-name, .links, h2 {
+	  font-size: 0.92em;
+	  justify-content: flex-start;
+	  webkit-text-size-adjust: 100%;
+	  margin: 0;
+  }
+  
+  .content-wrapper {
+	  flex-wrap: wrap;
+  }
+  
+  .content-left {
+	  width: 100%;
+	  order: 1;
+	  align-items: center;
+	  margin: 0;
+  }
+  
+  .portrait {
+	  width: 40%;
+	  align-self: center;
+  }
+  
+  .link-wrapper {
+	  flex-direction: row;
+	  flex-wrap: wrap;
+	  font-size: 0.8em;
+	  padding: 0% 3% 0% 3%;
+  }
+  
+  .contact-link {
+	  display: flex;
+	  margin-right: 0.5em;
+	  margin-bottom: 0.7em
+  }
+  
+  
+  .content-right {
+	  width: 100%;
+	  margin: 0;
+	  padding: 0% 3% 0% 3%;
+	  order: 2;
+  }
+  
+  p {
+	  font-size: 0.75em;
+  }
+  
+  h3 {
+	  font-size: 0.80em;
+  }
+  
+  p.footer-text {
+	  font-size: 0.6em;
+  }
+}
 
-
-
-
-
-
+@media only screen and (max-width: 800px) {
+	.navigation, .content-wrapper, .footer {
+		width: 35em;
+	}
+}
