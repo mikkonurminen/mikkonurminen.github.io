@@ -14,7 +14,7 @@ goodreads: mikkonurminen
 # Build settings
 markdown: kramdown
 encoding: utf-8
-gems:
+plugins:
   - jekyll-feed
 
 sass:
