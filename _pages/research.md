@@ -8,7 +8,7 @@ permalink: /research/
 
 ### Work in progress
 
-Information Technology, Repeat Prescriptions and Medication Overuse (with [Petri Böckerman], [Mika Kortelainen], [Liisa T. Laine], and [Tanja Saxell])
+Digital Waste? Unintended Consequences of Health Information Technology (with [Petri Böckerman], [Mika Kortelainen], [Liisa T. Laine], and [Tanja Saxell])
 
 Bad Medicine: Electronic Prescribing and Prevention of Harmful Drug-Drug Interactions (with [Petri Böckerman], [Mika Kortelainen], [Liisa T. Laine], and [Tanja Saxell])
 
