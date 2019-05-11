@@ -29,7 +29,6 @@ body {
 	width: 40em;
 	padding: 1.3em 0;
 	background: #604020;
-	text-transform: uppercase;
 }
 
 .nav-name {
@@ -143,18 +142,28 @@ a:hover {
 	color: #0d0d0d;
 }
 
+a.titlelink {
+	text-decoration: none;
+	font-weight: bold;
+}
+
 h1, h2, h3 {
 	color: #604020;
-	font-size: 1.4em;
+	font-size: 1.25em;
+	font-weight: 500;
 }
 
 h3 {
-	font-size: 1.0em;
+	font-size: 1.05em;
 }
 
 p {
-	font-size: 0.9em;
+	font-size: 0.85em;
 	color: #5a5447;	
+}
+
+b, strong {
+	color: #604020;
 }
 
 .footer-wrapper {
