@@ -6,17 +6,32 @@ permalink: /research/
 
 ## Research
 
+### Publications
+
+<a class="titlelink" href="https://doi.org/10.1371/journal.pone.0255126">
+	Socioeconomic differences in utilization of public and private dental care in Finland: Register-based evidence on a population aged 25 and over
+</a>, 2021, *PLoS ONE*, 16(8): e0255126
+(with [Jenni Blomgren] and [Hennamari Mikkola])
+
 ### Working papers
+
+<a class="titlelink" href="https://ace-economics.fi/kuvat/dp139.pdf">
+	Mergers and Acquisitions in the Markets for Diagnostic Services: Evidence from the Finnish Private Health Care Sector
+</a>, 2021, ACE Discussion paper No. 139
+
+<a class="titlelink" href="https://urn.fi/URN:ISBN:978-952-274-252-0">
+	Physician Prices and Competition: Evidence from Acquisitions in the Private Health Care Sector
+</a>, 2020, VATT Working Papers 130 
+(with [Tanja Saxell])
+
+<a class="titlelink" href="http://ftp.iza.org/dp13926.pdf">
+	Information Integration, Coordination Failures, and Quality of Prescribing
+</a>, 2020, IZA DP No. 13926 
+(with [Petri Böckerman], [Liisa T. Laine], and [Tanja Saxell])
 
 <a class="titlelink" href="http://ftp.iza.org/dp12275.pdf">
 	Digital Waste? Unintended Consequences of Health Information Technology
 </a>, 2019, IZA DP No. 12275 
-(with [Petri Böckerman], [Mika Kortelainen], [Liisa T. Laine], and [Tanja Saxell])
-
-
-### Work in progress
-
-__Bad Medicine: Electronic Prescribing and Prevention of Harmful Drug-Drug Interactions__ 
 (with [Petri Böckerman], [Mika Kortelainen], [Liisa T. Laine], and [Tanja Saxell])
 
 
@@ -34,4 +49,5 @@ __Bad Medicine: Electronic Prescribing and Prevention of Harmful Drug-Drug Inter
 [Mikko Nurminen]: https://mikkonurminen.github.io/
 [Tanja Saxell]: https://sites.google.com/site/tsaxell/
 [Janne Tukiainen]: https://vatt.fi/en/researcher/tukiainen-janne
- 
+[Jenni Blomgren]: https://www.kela.fi/henkilosto/-/asset_publisher/Ws4epHaGEWCI/content/blomgren-jenni
+[Hennamari Mikkola]: https://www.kela.fi/tutkimus/henkilosto/-/asset_publisher/Ws4epHaGEWCI/content/mikkola-hennamari?inheritRedirect=false&redirect=https%3A%2F%2Fwww.kela.fi%2Ftutkimus%2Fhenkilosto%3Fp_p_id%3D101_INSTANCE_Ws4epHaGEWCI%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_pos%3D2%26p_p_col_count%3D3
