@@ -8,6 +8,11 @@ permalink: /research/
 
 ### Publications
 
+<a class="titlelink" href="https://www.mdpi.com/1660-4601/18/24/13337">
+	Associations of Medical Visits with Dentist Visits: A Register-Linkage Study of a Working-Age Population in Finland
+</a>, 2021, *Int. J. Environ. Res. Public Health*, 18(24):13337
+(with [Jenni Blomgren])
+
 <a class="titlelink" href="https://doi.org/10.1371/journal.pone.0255126">
 	Socioeconomic differences in utilization of public and private dental care in Finland: Register-based evidence on a population aged 25 and over
 </a>, 2021, *PLoS ONE*, 16(8): e0255126
@@ -49,5 +54,5 @@ permalink: /research/
 [Mikko Nurminen]: https://mikkonurminen.github.io/
 [Tanja Saxell]: https://sites.google.com/site/tsaxell/
 [Janne Tukiainen]: https://vatt.fi/en/researcher/tukiainen-janne
-[Jenni Blomgren]: https://www.kela.fi/henkilosto/-/asset_publisher/Ws4epHaGEWCI/content/blomgren-jenni
+[Jenni Blomgren]: https://www.kela.fi/tutkimus/henkilosto/-/asset_publisher/Ws4epHaGEWCI/content/blomgren-jenni
 [Hennamari Mikkola]: https://www.kela.fi/tutkimus/henkilosto/-/asset_publisher/Ws4epHaGEWCI/content/mikkola-hennamari?inheritRedirect=false&redirect=https%3A%2F%2Fwww.kela.fi%2Ftutkimus%2Fhenkilosto%3Fp_p_id%3D101_INSTANCE_Ws4epHaGEWCI%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_pos%3D2%26p_p_col_count%3D3
