@@ -42,6 +42,10 @@ permalink: /research/
 
 ### Publications in Finnish
 
+<a class="titlelink" href="https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/12/KAK_4_2021_WEB-119-123.pdf">
+	Esseitä terveystaloustieteestä
+</a>, 2021, *Kansantaloudellinen aikakausikirja*, 117(4)
+
 <a class="titlelink" href="http://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2015/12/kultti-nurminen-tukiainen.pdf">
 	Tutkimusrahan uusi kilpailutus maksoi miljoonia
 </a>, 2015, *Kansantaloudellinen aikakausikirja*, 111(4) 
@@ -50,7 +54,7 @@ permalink: /research/
 
 [Petri Böckerman]: http://www.petribockerman.fi/
 [Mika Kortelainen]: https://sites.google.com/view/mikakorte/home
-[Liisa T. Laine]: https://sites.google.com/site/laineliisat/
+[Liisa T. Laine]: https://www.liisalaine.net/
 [Mikko Nurminen]: https://mikkonurminen.github.io/
 [Tanja Saxell]: https://sites.google.com/site/tsaxell/
 [Janne Tukiainen]: https://vatt.fi/en/researcher/tukiainen-janne
