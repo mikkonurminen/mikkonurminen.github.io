@@ -15,7 +15,6 @@ goodreads: mikkonurminen
 markdown: kramdown
 encoding: utf-8
 plugins:
-  - jekyll-feed
 
 sass:
     style: compressed
