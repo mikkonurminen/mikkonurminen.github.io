@@ -42,6 +42,11 @@ permalink: /research/
 
 ### Publications in Finnish
 
+<a class="titlelink" href="https://www.lukusali.fi/index.html?p=Suomen%20yleisl%C3%A4%C3%A4k%C3%A4rit%20GPF%20ry&i=6271960a-da95-11ec-bdec-00155d64030a">
+	Valtaosa työikäisten lääkkeistä määrätään julkisella sektorilla
+</a>, 2021, *Yleislääkäri*, 3/2022
+(with [Hanna Rättö] and [Heini Kari])
+
 <a class="titlelink" href="https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/12/KAK_4_2021_WEB-119-123.pdf">
 	Esseitä terveystaloustieteestä
 </a>, 2021, *Kansantaloudellinen aikakausikirja*, 117(4)
@@ -60,3 +65,5 @@ permalink: /research/
 [Janne Tukiainen]: https://vatt.fi/en/researcher/tukiainen-janne
 [Jenni Blomgren]: https://www.kela.fi/tutkimus/henkilosto/-/asset_publisher/Ws4epHaGEWCI/content/blomgren-jenni
 [Hennamari Mikkola]: https://www.kela.fi/tutkimus/henkilosto/-/asset_publisher/Ws4epHaGEWCI/content/mikkola-hennamari?inheritRedirect=false&redirect=https%3A%2F%2Fwww.kela.fi%2Ftutkimus%2Fhenkilosto%3Fp_p_id%3D101_INSTANCE_Ws4epHaGEWCI%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_pos%3D2%26p_p_col_count%3D3
+[Hanna Rättö]: https://www.kela.fi/tutkimuksen-henkilosto-ratto-hanna
+[Heini Kari]: https://www.kela.fi/tutkimuksen-henkilosto-kari-heini
