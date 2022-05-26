@@ -44,7 +44,7 @@ permalink: /research/
 
 <a class="titlelink" href="https://www.lukusali.fi/index.html?p=Suomen%20yleisl%C3%A4%C3%A4k%C3%A4rit%20GPF%20ry&i=6271960a-da95-11ec-bdec-00155d64030a">
 	Valtaosa työikäisten lääkkeistä määrätään julkisella sektorilla
-</a>, 2021, *Yleislääkäri*, 3/2022
+</a>, 2022, *Yleislääkäri*, 3/2022
 (with [Hanna Rättö] and [Heini Kari])
 
 <a class="titlelink" href="https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/12/KAK_4_2021_WEB-119-123.pdf">
