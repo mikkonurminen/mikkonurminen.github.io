@@ -8,6 +8,10 @@ permalink: /research/
 
 ### Publications
 
+<a class="titlelink" href="https://doi.org/10.1371/journal.pone.0278198">
+	Association of mental health and behavioral disorders with health care and service utilization in children before and after diagnosis
+</a>, 2022, *PLoS ONE*, 17(11): e0278198
+
 <a class="titlelink" href="https://www.mdpi.com/1660-4601/18/24/13337">
 	Associations of Medical Visits with Dentist Visits: A Register-Linkage Study of a Working-Age Population in Finland
 </a>, 2021, *Int. J. Environ. Res. Public Health*, 18(24):13337
@@ -17,6 +21,22 @@ permalink: /research/
 	Socioeconomic differences in utilization of public and private dental care in Finland: Register-based evidence on a population aged 25 and over
 </a>, 2021, *PLoS ONE*, 16(8): e0255126
 (with [Jenni Blomgren] and [Hennamari Mikkola])
+
+### Publications in Finnish
+
+<a class="titlelink" href="https://www.lukusali.fi/index.html?p=Suomen%20yleisl%C3%A4%C3%A4k%C3%A4rit%20GPF%20ry&i=6271960a-da95-11ec-bdec-00155d64030a">
+	Valtaosa työikäisten lääkkeistä määrätään julkisella sektorilla
+</a>, 2022, *Yleislääkäri*, 3/2022
+(with [Hanna Rättö] and [Heini Kari])
+
+<a class="titlelink" href="https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/12/KAK_4_2021_WEB-119-123.pdf">
+	Esseitä terveystaloustieteestä
+</a>, 2021, *Kansantaloudellinen aikakausikirja*, 117(4)
+
+<a class="titlelink" href="http://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2015/12/kultti-nurminen-tukiainen.pdf">
+	Tutkimusrahan uusi kilpailutus maksoi miljoonia
+</a>, 2015, *Kansantaloudellinen aikakausikirja*, 111(4) 
+(with Klaus Kultti, [Janne Tukiainen])
 
 ### Working papers
 
@@ -38,23 +58,6 @@ permalink: /research/
 	Digital Waste? Unintended Consequences of Health Information Technology
 </a>, 2019, IZA DP No. 12275 
 (with [Petri Böckerman], [Mika Kortelainen], [Liisa T. Laine], and [Tanja Saxell])
-
-
-### Publications in Finnish
-
-<a class="titlelink" href="https://www.lukusali.fi/index.html?p=Suomen%20yleisl%C3%A4%C3%A4k%C3%A4rit%20GPF%20ry&i=6271960a-da95-11ec-bdec-00155d64030a">
-	Valtaosa työikäisten lääkkeistä määrätään julkisella sektorilla
-</a>, 2022, *Yleislääkäri*, 3/2022
-(with [Hanna Rättö] and [Heini Kari])
-
-<a class="titlelink" href="https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/12/KAK_4_2021_WEB-119-123.pdf">
-	Esseitä terveystaloustieteestä
-</a>, 2021, *Kansantaloudellinen aikakausikirja*, 117(4)
-
-<a class="titlelink" href="http://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2015/12/kultti-nurminen-tukiainen.pdf">
-	Tutkimusrahan uusi kilpailutus maksoi miljoonia
-</a>, 2015, *Kansantaloudellinen aikakausikirja*, 111(4) 
-(with Klaus Kultti, [Janne Tukiainen])
 
 
 [Petri Böckerman]: http://www.petribockerman.fi/
