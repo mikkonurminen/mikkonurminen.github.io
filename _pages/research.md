@@ -8,6 +8,11 @@ permalink: /research/
 
 ### Publications
 
+<a class="titlelink" href="http://jhr.uwpress.org/content/early/2022/12/01/jhr.0921-11910R2.abstract">
+	Information Integration, Coordination Failures, and Quality of Prescribing
+</a>, Forthcoming, *J. Human Resources* 
+(with [Petri Böckerman], [Liisa T. Laine], and [Tanja Saxell])
+
 <a class="titlelink" href="https://doi.org/10.1371/journal.pone.0278198">
 	Association of mental health and behavioral disorders with health care and service utilization in children before and after diagnosis
 </a>, 2022, *PLoS ONE*, 17(11): e0278198
@@ -48,11 +53,6 @@ permalink: /research/
 	Physician Prices and Competition: Evidence from Acquisitions in the Private Health Care Sector
 </a>, 2020, VATT Working Papers 130 
 (with [Tanja Saxell])
-
-<a class="titlelink" href="http://ftp.iza.org/dp13926.pdf">
-	Information Integration, Coordination Failures, and Quality of Prescribing
-</a>, 2020, IZA DP No. 13926 
-(with [Petri Böckerman], [Liisa T. Laine], and [Tanja Saxell])
 
 <a class="titlelink" href="http://ftp.iza.org/dp12275.pdf">
 	Digital Waste? Unintended Consequences of Health Information Technology
