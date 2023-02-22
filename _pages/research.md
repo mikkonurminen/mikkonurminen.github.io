@@ -12,7 +12,7 @@ Böckerman, P., Laine, L. T., Nurminen, M., & Saxell, T. (forthcoming).
 <a class="titlelink" href="http://jhr.uwpress.org/content/early/2022/12/01/jhr.0921-11910R2.abstract">
 	Information Integration, Coordination Failures, and Quality of Prescribing</a>. *J. Human Resources* 
 
-Nurminen M. (2022). 
+Nurminen, M. (2022). 
 <a class="titlelink" href="https://doi.org/10.1371/journal.pone.0278198">
 	Association of mental health and behavioral disorders with health care and service utilization in children before and after diagnosis</a>. *PLOS ONE*, 17(11): e0278198
 
