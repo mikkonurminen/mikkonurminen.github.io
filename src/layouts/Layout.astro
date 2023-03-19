@@ -1,0 +1,29 @@
+---
+import Head from "../components/Head.astro"
+import Header from "../components/Header.astro"
+import ContentLeft from "../components/ContentLeft.astro"
+import Footer from "../components/Footer.astro"
+
+const { title, description } = Astro.props.frontmatter || Astro.props
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <Head title={title} description={description} />
+  <body>
+    <Header />
+    <div class="wrapper">
+      <div class="content-wrapper">
+        <ContentLeft />
+        <div class="content-right">
+          <div class="content-right-wrapper">
+            <article>
+              <slot />
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+    <Footer />
+  </body>
+</html>

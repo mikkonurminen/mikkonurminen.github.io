@@ -1,0 +1,32 @@
+---
+const metaVar = {
+  title: "Mikko Nurminen",
+  description: "I do research mainly in health economics.",
+}
+
+const { title = metaVar.title, description = metaVar.description } = Astro.props
+---
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="author" content="Mikko Nurminen" />
+  <meta name="title" content={title} />
+  <meta name="description" content={description} />
+  <meta name="robots" content="follow, index" />
+  <link rel="icon" type="image/svg+xml" href="/img/favicon.svg" />
+  <title>{title}</title>
+  <link rel="stylesheet" href="/styles/global.css" />
+  <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
+    integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
+    crossorigin="anonymous"
+  />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap"
+    rel="stylesheet"
+  />
+</head>
