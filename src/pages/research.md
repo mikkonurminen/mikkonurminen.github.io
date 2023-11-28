@@ -30,9 +30,13 @@ Socioeconomic differences in utilization of public and private dental care in Fi
 
 ## Publications in Finnish
 
+Nurminen, M., & Blomgren, J. (2023).
+<a class="titlelink" href="https://www.lukusali.fi/index.html?p=Suomen%20yleisl%C3%A4%C3%A4k%C3%A4rit%20GPF%20ry&i=cf350ef0-8793-11ee-a55a-00155d64030a">
+Oulussa asuvien peruskoululaisten avoterveydenhuollon hoitaja- ja lääkäripalveluiden käyttö: havaintotutkimus</a>. _Yleislääkäri_, 38(8)
+
 Rättö, H., Nurminen, M., & Kari, H. (2022).
 <a class="titlelink" href="https://www.lukusali.fi/index.html?p=Suomen%20yleisl%C3%A4%C3%A4k%C3%A4rit%20GPF%20ry&i=6271960a-da95-11ec-bdec-00155d64030a">
-Valtaosa työikäisten lääkkeistä määrätään julkisella sektorilla</a>. _Yleislääkäri_, 3/2022
+Valtaosa työikäisten lääkkeistä määrätään julkisella sektorilla</a>. _Yleislääkäri_, 37(4)
 
 Nurminen, M. (2021).
 <a class="titlelink" href="https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/12/KAK_4_2021_WEB-119-123.pdf">
