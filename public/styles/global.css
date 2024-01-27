@@ -234,6 +234,7 @@ p.footer-text {
 }
 
 @media only screen and (max-width: 720px) {
+
   .nav-name,
   .links {
     justify-content: flex-start;
