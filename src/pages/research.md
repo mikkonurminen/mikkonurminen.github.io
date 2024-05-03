@@ -8,13 +8,17 @@ description: "A complete list of my research articles."
 
 ## Publications
 
+Böckerman, P., Kortelainen, M., Laine, L. T., Nurminen, M., & Saxell, T. (forthcoming).
+<a class="titlelink" href="https://doi.org/10.1093/jeea/jvae034">
+Information technology, improved access and use of prescription drugs</a>. _Journal of the European Economic Association_
+
 Böckerman, P., Laine, L. T., Nurminen, M., & Saxell, T. (forthcoming).
-<a class="titlelink" href="http://jhr.uwpress.org/content/early/2022/12/01/jhr.0921-11910R2.abstract">
-Information Integration, Coordination Failures, and Quality of Prescribing</a>. _J. Human Resources_
+<a class="titlelink" href="https://doi.org/10.3368/jhr.0921-11910R2">
+Information Integration, Coordination Failures, and Quality of Prescribing</a>. _Journal of Human Resources_
 
 Nurminen, M., & Rättö, H. (2023).
 <a class="titlelink" href="https://doi.org/10.1186/s13561-023-00440-z">
-Impact of diabetes diagnosis on dental care utilization: evidence from Finland</a>. _Health Econ Rev_, 13: 26
+Impact of diabetes diagnosis on dental care utilization: evidence from Finland</a>. _Health Economics Review_, 13: 26
 
 Nurminen, M. (2022).
 <a class="titlelink" href="https://doi.org/10.1371/journal.pone.0278198">
@@ -22,9 +26,9 @@ Association of mental health and behavioral disorders with health care and servi
 
 Nurminen, M., & Blomgren, J. (2021).
 <a class="titlelink" href="https://www.mdpi.com/1660-4601/18/24/13337">
-Associations of Medical Visits with Dentist Visits: A Register-Linkage Study of a Working-Age Population in Finland</a>. _Int. J. Environ. Res. Public Health_, 18(24):13337
+Associations of Medical Visits with Dentist Visits: A Register-Linkage Study of a Working-Age Population in Finland</a>. _International Journal of Environmental Research and Public Health_, 18(24):13337
 
-Nurminen, M., Blomgren, J., & Hennamari, M. (2021).
+Nurminen, M., Blomgren, J. & Hennamari, M. (2021).
 <a class="titlelink" href="https://doi.org/10.1371/journal.pone.0255126">
 Socioeconomic differences in utilization of public and private dental care in Finland: Register-based evidence on a population aged 25 and over</a>. _PLOS ONE_, 16(8): e0255126
 
@@ -45,17 +49,3 @@ Esseitä terveystaloustieteestä</a>. _Kansantaloudellinen aikakauskirja_, 117(4
 Kultti, K., Nurminen, M., & Tukiainen, J. (2015).
 <a class="titlelink" href="http://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2015/12/kultti-nurminen-tukiainen.pdf">
 Tutkimusrahan uusi kilpailutus maksoi miljoonia</a>. _Kansantaloudellinen aikakauskirja_, 111(4)
-
-## Working papers
-
-Böckerman, P., Kortelainen, M., Laine, L. T., Nurminen, M., & Saxell, T. (2023).
-<a class="titlelink" href="https://econpapers.repec.org/paper/umcwpaper/2301.htm">
-Information Technology, Improved Access, and Use of Prescription Drugs</a>. No 2301, Working Papers, Department of Economics, University of Missouri
-
-Nurminen, M. (2021).
-<a class="titlelink" href="https://ace-economics.fi/kuvat/dp139.pdf">
-Mergers and Acquisitions in the Markets for Diagnostic Services: Evidence from the Finnish Private Health Care Sector</a>. ACE Discussion paper No. 139
-
-Nurminen, M., & Saxell, T. (2020).
-<a class="titlelink" href="https://urn.fi/URN:ISBN:978-952-274-252-0">
-Physician Prices and Competition: Evidence from Acquisitions in the Private Health Care Sector</a>. VATT Working Papers 130
