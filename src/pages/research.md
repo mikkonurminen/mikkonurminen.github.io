@@ -16,8 +16,11 @@ Böckerman, P., Laine, L. T., Nurminen, M., & Saxell, T. (forthcoming).
 <a class="titlelink" href="https://doi.org/10.3368/jhr.0921-11910R2">
 Information Integration, Coordination Failures, and Quality of Prescribing</a>. _Journal of Human Resources_
 
-Nurminen, M., & Rättö, H. (2023).
-<a class="titlelink" href="https://doi.org/10.1186/s13561-023-00440-z">
+Rättö, H., Nurminen, M., & Aaltonen, K. (2024).
+<a class="titlelink" href="https://doi.org/10.1186/s12913-024-12010-y">
+Prescribing patterns before the initiation of novel antidiabetic medicines in public, occupational, and private healthcare: a register study reflecting the guidelines of care in type 2 diabetes</a>. _BMC Health Services Research_, 24: 1553
+
+Nurminen, M., & Rättö, H. (2023). <a class="titlelink" href="https://doi.org/10.1186/s13561-023-00440-z">
 Impact of diabetes diagnosis on dental care utilization: evidence from Finland</a>. _Health Economics Review_, 13: 26
 
 Nurminen, M. (2022).

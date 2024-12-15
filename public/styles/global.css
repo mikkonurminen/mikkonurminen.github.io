@@ -23,7 +23,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 45em;
+  width: 48em;
   padding: 1.3em 0;
   background: #604020;
 }
@@ -67,7 +67,7 @@ body {
 .content-wrapper {
   display: flex;
   justify-content: space-between;
-  width: 45em;
+  width: 48em;
 }
 
 .content-left {
@@ -75,7 +75,7 @@ body {
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  width: 29%;
+  width: 25%;
   margin-left: 0.5em;
 }
 
@@ -123,7 +123,7 @@ a.contact-link:hover {
 .content-right {
   display: flex;
   flex-direction: column;
-  width: 69%;
+  width: 75%;
   padding-left: 3%;
   margin-right: 0.5em;
 }
@@ -172,7 +172,7 @@ strong {
 .footer {
   display: flex;
   justify-content: center;
-  width: 45em;
+  width: 48em;
   border-top: solid;
   border-width: 1px;
 }
