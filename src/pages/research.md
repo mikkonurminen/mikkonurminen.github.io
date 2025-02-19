@@ -8,13 +8,13 @@ description: "A complete list of my research articles."
 
 ## Publications
 
-Böckerman, P., Kortelainen, M., Laine, L. T., Nurminen, M., & Saxell, T. (forthcoming).
-<a class="titlelink" href="https://doi.org/10.1093/jeea/jvae034">
-Information technology, improved access and use of prescription drugs</a>. _Journal of the European Economic Association_
-
 Böckerman, P., Laine, L. T., Nurminen, M., & Saxell, T. (forthcoming).
 <a class="titlelink" href="https://doi.org/10.3368/jhr.0921-11910R2">
 Information Integration, Coordination Failures, and Quality of Prescribing</a>. _Journal of Human Resources_
+
+Böckerman, P., Kortelainen, M., Laine, L. T., Nurminen, M., & Saxell, T. (2025).
+<a class="titlelink" href="https://doi.org/10.1093/jeea/jvae034">
+Information technology, improved access and use of prescription drugs</a>. _Journal of the European Economic Association_, 23(1): 396-430
 
 Rättö, H., Nurminen, M., & Aaltonen, K. (2024).
 <a class="titlelink" href="https://doi.org/10.1186/s12913-024-12010-y">
