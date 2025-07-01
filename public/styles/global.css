@@ -108,6 +108,10 @@ body {
   height: 1em;
 }
 
+.email {
+  margin-right: 0.5em
+}
+
 .linkedin {
   padding-right: 0.12em;
 }
