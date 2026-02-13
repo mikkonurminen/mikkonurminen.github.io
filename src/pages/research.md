@@ -37,6 +37,10 @@ Socioeconomic differences in utilization of public and private dental care in Fi
 
 ## Publications in Finnish
 
+Kujanpää, T., Nurminen, M., Luoto, R., & Mikkola, H. (2026).
+<a class="titlelink" href="https://journal.fi/sla/article/view/156702">
+Hoitosuhteiden jatkuvuuden muutostrendit ja jatkuvuuteen yhteydessä olevat tekijät yksityisissä lääkäri- ja hammaslääkäripalveluissa</a>. _Sosiaalilääketieteellinen Aikakauslehti_, 63(1), 225-239
+
 Nurminen, M., & Blomgren, J. (2023).
 <a class="titlelink" href="https://www.lukusali.fi/index.html?p=Suomen%20yleisl%C3%A4%C3%A4k%C3%A4rit%20GPF%20ry&i=cf350ef0-8793-11ee-a55a-00155d64030a">
 Oulussa asuvien peruskoululaisten avoterveydenhuollon hoitaja- ja lääkäripalveluiden käyttö: havaintotutkimus</a>. _Yleislääkäri_, 38(8)
