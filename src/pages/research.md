@@ -37,6 +37,10 @@ Socioeconomic differences in utilization of public and private dental care in Fi
 
 ## Publications in Finnish
 
+Nurminen, M., Kujanpää, T., Leppänen, Juho., & Hiltunen, R. (2026).
+<a class="titlelink" href="https://hdl.handle.net/10138/630027">
+Korkeakouluopiskelijoiden avoterveydenhuollon käyttö monikanavaisessa palvelujärjestelmässä: rekisteritutkimus</a>. Raportteja 12. Kela. https://urn.fi/URN:ISBN:978-952-284-236-7
+
 Kujanpää, T., Nurminen, M., Luoto, R., & Mikkola, H. (2026).
 <a class="titlelink" href="https://journal.fi/sla/article/view/156702">
 Hoitosuhteiden jatkuvuuden muutostrendit ja jatkuvuuteen yhteydessä olevat tekijät yksityisissä lääkäri- ja hammaslääkäripalveluissa</a>. _Sosiaalilääketieteellinen Aikakauslehti_, 63(1): 225-239
