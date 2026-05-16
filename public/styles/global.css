@@ -43,14 +43,19 @@ body {
   display: flex;
   justify-content: flex-end;
   margin-right: 0.5em;
+  padding-left: 0;
   list-style-type: none;
   font-size: 1.2em;
 }
 
 .header-links {
-  margin-left: 1.5em;
   color: #fcf8e3;
   text-decoration: none;
+  white-space: nowrap;
+}
+
+.links li + li .header-links {
+  margin-left: 1.5em;
 }
 
 .header-links:hover {
@@ -80,10 +85,8 @@ body {
 }
 
 .portrait {
-  float: left;
   width: 99%;
   border-radius: 50%;
-  margin-bottom: 0%;
 }
 
 .link-wrapper {
@@ -109,7 +112,7 @@ body {
 }
 
 .email {
-  margin-right: 0.5em
+  margin-right: 0.5em;
 }
 
 .linkedin {
@@ -150,7 +153,7 @@ h1,
 h2,
 h3 {
   color: #604020;
-  font-size: 1.25em;
+  font-size: 1.2em;
   font-weight: 500;
 }
 
@@ -185,10 +188,6 @@ p.footer-text {
   font-size: 0.7em;
 }
 
-.cv-dates-left {
-  margin-right: 1em;
-}
-
 @media only screen and (max-width: 900px) {
   .content-left {
     margin-left: 0;
@@ -220,6 +219,10 @@ p.footer-text {
     font-size: 0.75em;
   }
 
+  h1 {
+    font-size: 0.92em;
+  }
+
   h2 {
     font-size: 0.92em;
   }
@@ -238,8 +241,11 @@ p.footer-text {
 }
 
 @media only screen and (max-width: 720px) {
+  .nav-name {
+    -webkit-text-size-adjust: 100%;
+    margin: 0;
+  }
 
-  .nav-name,
   .links {
     justify-content: flex-start;
     -webkit-text-size-adjust: 100%;
@@ -280,10 +286,6 @@ p.footer-text {
     margin-bottom: 0.7em;
   }
 
-  .fa-pic {
-    margin-right: 0.3em;
-  }
-
   .content-right {
     width: 100%;
     margin: 0;
@@ -293,5 +295,24 @@ p.footer-text {
 
   h2 {
     margin: 0;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .navigation {
+    gap: 0.8em;
+  }
+
+  .nav-name,
+  .links {
+    font-size: 0.8em;
+  }
+
+  .nav-name {
+    line-height: 1.05;
+  }
+
+  h1 {
+    font-size: 0.8em;
   }
 }

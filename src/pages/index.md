@@ -5,8 +5,10 @@ title: "Mikko Nurminen"
 
 # About
 
-PhD in Economics. Senior researcher at [The Social Insurance Institution of Finland]. 
+I work as a senior researcher at [The Social Insurance Institution of Finland].
+I received my PhD in Economics from the University of Turku in 2021.
 
-Interested in health economics and programming.
+My research interests are in health economics and applied microeconomics. I am
+also interested in programming, particularly in systems, tools, and algorithms.
 
 [The Social Insurance Institution of Finland]: https://tietotarjotin.fi/en/front-page
